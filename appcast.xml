@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Codely</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sun, 02 Jul 2023 18:29:20 +0200</pubDate>
+            <sparkle:version>1.0</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/codely-ai-releases/codely-release/releases/tag/prototype" length="4202272" type="application/octet-stream" sparkle:edSignature="CePcEz4UCo8wupZg4isc1Wyjr68v+hn09Q9SC33lVXeZblVn6vDlutZdNb6340wtVxrrIv14GKzW0kBQjLxTAA=="/>
+        </item>
+    </channel>
+</rss>
